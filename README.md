@@ -1,0 +1,1 @@
+I am practicing creatings websites by creating a copy of the google homepage.
